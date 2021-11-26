@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/55329/AndroidStudioProjects/lista-produtos-master/app/src/main/res/layout/activity_formulario_produtos.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/55329/AndroidStudioProjects/lista-produtos-master/app/src/main/res/layout/activity_lista_produtos.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/55329/AndroidStudioProjects/lista-produtos-master/app/src/main/res/layout/item_produto.xml" value="0.17798913043478262" />
         <entry key="..\:/Users/55329/Downloads/lista-tarefas-master/lista-tarefas-master/app/src/main/res/layout/activity_formulario_tarefa.xml" value="0.2857142857142857" />
         <entry key="..\:/Users/55329/Downloads/lista-tarefas-master/lista-tarefas-master/app/src/main/res/layout/activity_lista_produtos.xml" value="0.18432971014492755" />
         <entry key="..\:/Users/55329/Downloads/lista-tarefas-master/lista-tarefas-master/app/src/main/res/layout/activity_lista_tarefas.xml" value="0.25" />
